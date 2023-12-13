@@ -1,0 +1,49 @@
+body{
+    font-family:Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+background-image: url(./image1.webp);
+}
+
+h2{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: rgb(255, 255, 255);
+}
+
+h3{
+    font-weight: bold;
+}
+
+.second h2{
+    background-color: mediumspringgreen;
+}
+
+p{
+    font-size: 23px;
+}
+
+span{
+    color: blue;
+    font-weight: bold;
+}
+
+.third h2{
+    background-color:lightcoral;
+}
+
+.fourth h2{
+    background-color:skyblue;
+}
